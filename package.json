@@ -1,0 +1,35 @@
+{
+  "name": "omgwtf-defi-points-kit",
+  "version": "1.0.0",
+  "description": "Access DeFi points and NFT functionalities with a kit for DeFi-NFT integration.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bins11rubato22/omgwtf-defi-points-kit"
+  },
+  "author": "bins11rubato22",
+  "license": "MIT",
+  "dependencies": {
+    "omgwtf-nft-kit": "1.0.0",
+    "omgwtf-defi-points-kit": "1.0.0",
+    "web3": "1.0.0",
+    "react-redux": "1.0.0",
+    "moment": "1.0.0",
+    "jest": "1.0.0",
+    "cors": "1.0.0",
+    "chalk": "1.0.0",
+    "ethers": "1.0.0",
+    "ipfs-http-client": "1.0.0",
+    "async": "1.0.0",
+    "react": "1.0.0",
+    "body-parser": "1.0.0",
+    "ejs": "1.0.0",
+    "mongoose": "1.0.0",
+    "web3-react": "1.0.0",
+    "axios": "1.0.0",
+    "ganache-cli": "1.0.0"
+  }
+}
